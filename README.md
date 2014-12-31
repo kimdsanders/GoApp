@@ -1,7 +1,7 @@
 GoApp
 =====
 
-Ruby web application that gets weather, dining and shopping info by zipcode.
+Ruby web application that gets weather, dining and shopping info by zipcode. http://goeatshop.herokuapp.com/
 
 It stemmed from this: 
 
